@@ -1,3 +1,3 @@
-# HepsiBurada clONE
+# HepsiBurada Clone
 
-![Project Image](https://i.ibb.co/C8DSnpF/Ekran-Al-nt-s.png)
+![Project Image](https://ibb.co/Ch74Hq6)
